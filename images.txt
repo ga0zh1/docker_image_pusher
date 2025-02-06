@@ -1,5 +1,5 @@
+vaultwarden
 #支持私库
 jwy8645/sing-box-subscribe:latest
 jwy8645/sing-box-subscribe:amd64
 jc21/nginx-proxy-manager
-vaultwarden/server
